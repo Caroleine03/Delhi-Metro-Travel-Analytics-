@@ -44,49 +44,49 @@ Insights and Findings
 
 ## 📈 Key Insights
 
-* Route Analysis
+## Route Analysis
     - High traffic routes need better crowd management.
     - High revenue routes are key for profit.
     - Average fare shows pricing differences.
     - Longer routes usually have higher fares.
 
-    ## ✅ Overall
+    ✅ Overall
     - Improves planning, pricing, and revenue
 
-* Station Analysis
+## Station Analysis
     - Busy departure stations handle more trips and need better scheduling.
     - Stations with high arrivals manage more passenger flow.
     - Frequently used stations are key hubs in the network.
     - Common station pairs show popular travel routes.
 
-    ## ✅ Overall
+    ✅ Overall
     - Helps improve station planning and passenger flow
 
-* Revenue Analysis
+## Revenue Analysis
     - Total revenue shows overall earnings.
     - Average fare shows typical cost per trip.
     - Revenue per km highlights most profitable routes.
     - Top ticket types generate the most income.
 
-    ## ✅ Overall
+    ✅ Overall
     - Helps understand earnings and improve pricing strategy
 
-* Passenger Analysis
+## Passenger Analysis
     - Average passengers show typical trip load.
     - Highest passenger trips indicate peak demand.
     - Ticket type distribution shows passenger preferences.
     - Station-wise passengers highlight busy stations.
 
-    ## ✅ Overall
+    ✅ Overall
     - Helps understand demand and improve service planning
 
-* Travel Pattern Analysis
+## Travel Pattern Analysis
     - Trip counts show demand across different conditions.
     - Some conditions generate higher revenue than others.
     - Monthly trends show how passenger demand changes over time.
     - Certain conditions have higher average passengers per trip.
 
-    ## ✅ Overall
+    ✅ Overall
     - Helps understand trends and improve planning
 
 ## ⚠️ Data Challenges
