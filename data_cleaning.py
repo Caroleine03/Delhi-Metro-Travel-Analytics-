@@ -112,8 +112,6 @@ invalid_Distance_km = data[data['Distance_km'] != data['Distance_km'].round(2)]
 print(f'The number of data that do not have 2 digits after decimal:  {len(invalid_Distance_km)}')
 
 
-print(data.iloc[[112,543,9834]]) 
-
 #To change the json file to csv
 data.to_csv('cleaned_data.csv',index=False)
 
